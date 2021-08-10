@@ -1,0 +1,23 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "node-opus": "^0.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "youtube-playlist": "^1.0.4",
+    "ytdl-core": "^3.2.2"
+  }
+}
